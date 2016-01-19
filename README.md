@@ -4,8 +4,9 @@ Arad Explorer Club Level calculator for Dungeon Fighter Online
 This program is calculator for "Arad Explorer Club" system for Dungeon Fighter Online.
 
 For more Information on "Arad Explorer Club" system, please refer to these URLs:
-http://wiki.dfo-world.com/view/Arad_Explorer_Club
-https://namu.wiki/w/%EC%95%84%EB%9D%BC%EB%93%9C%20%EB%AA%A8%ED%97%98%EB%8B%A8 (in Korean, for Korean version of DFO)
+
+- http://wiki.dfo-world.com/view/Arad_Explorer_Club
+- https://namu.wiki/w/%EC%95%84%EB%9D%BC%EB%93%9C%20%EB%AA%A8%ED%97%98%EB%8B%A8 (in Korean, for Korean version of DFO)
 
 Usage:
 
