@@ -1,6 +1,4 @@
 # Arad Explorer Club Calculator
-Arad Explorer Club Level calculator for Dungeon Fighter Online
-
 This program is calculator for "Arad Explorer Club" system for Dungeon Fighter Online.
 
 For more Information on "Arad Explorer Club" system, please refer to these URLs:
