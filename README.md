@@ -10,8 +10,6 @@ For more Information on "Arad Explorer Club" system, please refer to these URLs:
 Open the HTML file and put your character levels in input form, then click "Calculate" button.
 then you'll see what your Explorer Club level is, and count of available characters for supporter and mercenary system.
 
-if you want to web version directly, please refer to [this page](dfo_explevel.html).
-
 ## Note
 This program is not directly related to Neople.
 "Dungeon Fighter Online" is a registered trademark of Neople in U.S. and other countries.
