@@ -12,6 +12,7 @@ Open the HTML file and put your character levels in input form, then click "Calc
 then you'll see what your Explorer Club level is, and count of available characters for supporter and mercenary system.
 
 ## Note
-This program is not directly related to Neople. "Dungeon Fighter Online" is the registered trademark of Neople in U.S. and other countries.
+This program is not directly related to Neople.
+"Dungeon Fighter Online" is a registered trademark of Neople in U.S. and other countries.
 
 Last modified on 20 January 2016.
